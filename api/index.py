@@ -43,7 +43,7 @@ app = Flask(__name__)
 
 
 app.config['MONGODB_SETTINGS'] = {
-    'host':'mongodb+srv://rpinformationhub:PFFS9HrqJ73Wnnhj@safe-drive.gwyfmpf.mongodb.net/?retryWrites=true&w=majority'
+    'host':'mongodb+srv://rpinformationhub:password@safe-drive.gwyfmpf.mongodb.net/?retryWrites=true&w=majority'
 }
 
 
